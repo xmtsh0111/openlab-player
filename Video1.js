@@ -1,4 +1,4 @@
-//获取相应的标签
+//获取相应的标签 
 	var playBtn=document.getElementById("start");
 	var video=document.getElementById("vd");
 	var pg=document.getElementById("pb");
